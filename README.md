@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+don't judge a person by its code
